@@ -1,9 +1,9 @@
-n, k = map(int, input().split())
-s = 0
-for i in range(n):
+b, f = map(int, input().split())
+j = 0
+for i in range(b):
     a = int(input())
-    s += a
-if s >= k:
+    j += a
+if j >= f:
     print('YES')
 else:
     print('NO')

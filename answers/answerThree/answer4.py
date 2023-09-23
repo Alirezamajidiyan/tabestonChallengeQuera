@@ -1,10 +1,10 @@
-n = int(input())
-a = list(map(int, input().split()))
+b = int(input())
+f = list(map(int, input().split()))
 
-ans = 0
-for i in range(n):
+res = 0
+for i in range(b):
     for j in range(i):
-        if a[i] < a[j]:
-            ans += 1
+        if f[i] < f[j]:
+            res += 1
 
-print(ans)
+print(res)
