@@ -4,11 +4,11 @@
 
 ```python
     def answer():
-        answer1()
-        answer2()
-        answer3()
-        answer4()
-        answer5()
-        answer6()
-        answer7()
+        answerOne()
+        answerTwo()
+        answerThree()
+        answerFour()
+        answerFive()
+        answerSix()
+        answerSeven()
 ```
