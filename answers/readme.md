@@ -3,5 +3,5 @@
 بی مقدمه  میریم سروقت سوالات جذاب چلنج ️‍🔥
 
 ```python
-    print("I am a programmer")
+    answer()
 ```
