@@ -11,7 +11,7 @@
 -----------|-------------|---------
 [چلنج شماره یک](https://quera.org/contest/assignments/56831/problems)|جدول بازان |[مشاهده](./answer1)🍒
 [چلنج شماره دو](https://quera.org/contest/assignments/56852/problems)|معمای صفر و یک |[مشاهده](./answer1)🍇
-[چلنج شماره سه](https://quera.org/contest/assignments/56835/problems)|دروغ شاخدار |[مشاهده](./answer1)🍐
+[چلنج شماره سه](https://quera.org/contest/assignments/56835/problems)|دروغ شاخدار |[مشاهده](https://github.com/Alirezamajidiyan/tabestonChallengeQuera/tree/main/answers/answerThree)🍐
 [چلنج شماره چهار](https://quera.org/contest/assignments/56831/problems)|فتح پرچم |[مشاهده](./answer1)🍑
 [چلنج شماره پنج ](https://quera.org/contest/assignments/56831/problems)|هک سیاه |[مشاهده](./answer1)🫐
 [چلنج شماره شش](https://quera.org/contest/assignments/56831/problems)|راستشو بگو |[مشاهده](./answer1)🍉
