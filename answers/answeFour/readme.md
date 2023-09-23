@@ -2,6 +2,17 @@
 <br>
 <br>
 این چالش آسان می باشد و با کمی دقت میتوانید سوالات را حل کنید 
+
+```python
+#python code
+    print("I act carefully")
+    while True:
+        if answer==True:
+            print("Go to the next question")
+            break
+        else:
+            tryagain()
+```
 <br>
 <br>
 <br>
